@@ -1,7 +1,7 @@
 # CAN-AVERT
 A mobile application that saves lives by notifying flood risks before happening and provides Safe routes, tips and tricks  and survival Guides.
 
-#Background :
+###Background :
 
 Flood is the most dangerous natural disaster in the planet. According to the Centre for Research on the Epidemiology of Disasters , in 2016, floods killed the most people (4,731) , Where the N°1 Cause of Death in a flood will be drowning.
 
