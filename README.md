@@ -4,6 +4,19 @@
 
 `Can-Avert` is a mobile application that saves lives by notifying flood risks and providing Safe routes, tips and tricks and survival Guides
 
+![alt text](https://images-2018.spaceappschallenge.org/team-photos/q176YlMLxWqx_GTygGP4Y_oZ6DI=/11944/width-800/)
+
+##  The Project
+
+1. [Our project Page](https://2018.spaceappschallenge.org/challenges/volcanoes-icebergs-and-asteroids-oh-my/dont-forget-can-opener/teams/can-avert/project)
+
+4. [The Prototype](https://xd.adobe.com/view/6fb6966e-52a6-4a4d-59e8-57ff9f168e1b-1987/)
+
+2. [Presentation](https://docs.google.com/presentation/d/1__YXQ3Coewqnx-S97wKNejca6OLe9i_lthz6qhKZieI/edit)
+
+3. [Video](https://www.youtube.com/watch?v=-6OWhBsXw9A)
+
+
 ## Background :
 
 Flood is the most dangerous natural disaster in the planet. According to the Centre for Research on the Epidemiology of Disasters , in 2016, floods killed the most people (4,731) , Where the N°1 Cause of Death in a flood will be drowning.
@@ -19,14 +32,4 @@ The Application is easy to use, can be used online and offline and it is fast an
 
 A Machine Learning Algorithm is responsible for the Flood prediction where it will process RAW LANDSAT, SRTM and NOAA images to produce DEMs (Digital Elevation Models) and identify the amount of Clay in the soil the approximate areas as it plays a major role to know whether a place is at risk more than other zones.
 
-
-## Project
-
-1. [Our project Page](https://2018.spaceappschallenge.org/challenges/volcanoes-icebergs-and-asteroids-oh-my/dont-forget-can-opener/teams/can-avert/project)
-
-4. [The Prototype](https://xd.adobe.com/view/6fb6966e-52a6-4a4d-59e8-57ff9f168e1b-1987/)
-
-2. [Presentation](https://docs.google.com/presentation/d/1__YXQ3Coewqnx-S97wKNejca6OLe9i_lthz6qhKZieI/edit)
-
-3. [Video](https://www.youtube.com/watch?v=)
 
