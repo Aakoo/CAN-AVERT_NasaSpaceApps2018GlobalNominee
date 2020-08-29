@@ -15,7 +15,9 @@
 2. [Presentation](https://docs.google.com/presentation/d/1__YXQ3Coewqnx-S97wKNejca6OLe9i_lthz6qhKZieI/edit)
 
 3. [Video](https://www.youtube.com/watch?v=-6OWhBsXw9A)
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/-6OWhBsXw9A/0.jpg)](https://www.youtube.com/watch?v=-6OWhBsXw9A)
+
+
+[![Can-Avert](https://img.youtube.com/vi/-6OWhBsXw9A/0.jpg)](https://www.youtube.com/watch?v=-6OWhBsXw9A)
 
 
 
