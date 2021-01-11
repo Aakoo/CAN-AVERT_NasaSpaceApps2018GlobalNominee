@@ -5,6 +5,7 @@
 `Can-Avert` is a mobile application that saves lives by notifying flood risks and providing Safe routes, tips and tricks and survival Guides
 
 ![alt text](https://images-2018.spaceappschallenge.org/team-photos/q176YlMLxWqx_GTygGP4Y_oZ6DI=/11944/width-800/)
+![alt text](https://images-2018.spaceappschallenge.org/team-photos/q176YlMLxWqx_GTygGP4Y_oZ6DI=/11944/width-800/)
 
 ##  The Project
 
